@@ -13,7 +13,6 @@ Will include custom built Grunt Plugin which can make use of Apigee Management A
 
    - Should extend Java provided in io.apigee.buildTools.enterprise4g.utils
 
-
 Here are some of the Java stuff that well need to think about which is current used in the maven build. :
 
 - com.google.http-client - 1.10.3-beta
